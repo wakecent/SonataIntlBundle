@@ -44,10 +44,5 @@
     },
     "autoload-dev": {
         "psr-4": { "Sonata\\IntlBundle\\Tests\\": "Tests/" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.x-dev"
-        }
     }
 }
